@@ -16,7 +16,7 @@ import java.io.InputStreamReader;
             boolean h = true;
             String i = "text";
 
-            someNums(1, 2, 3, 4);
+            someNums(1, 0, 10, 3);
             System.out.println(from10to20(1, 2));
 
             System.out.println("write a num to know, if it is positive or negative");
@@ -33,7 +33,7 @@ import java.io.InputStreamReader;
         }
         //3ed task
 
-        public static void someNums(int a, int b, int c, int d){
+        public static void  someNums(double a, double b, double c, double d){
             double x = a * (b + (c / d));
             System.out.println(x);
         }
