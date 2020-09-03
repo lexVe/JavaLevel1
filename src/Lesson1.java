@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 
 
 
-    class FirstLesson {
+    public class Lesson1 {
         public static void main(String[] args) throws IOException {
             byte a = 1;
             short b = 123;
