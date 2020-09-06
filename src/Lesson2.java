@@ -82,35 +82,21 @@ public class Lesson2 {
                 }
             }
         newLine();
-        System.out.println("Максимальное значение - " + max);
-        System.out.println("Минимальное значение - " + min);
+        System.out.println("Maximum value - " + max);
+        System.out.println("Minimum value - " + min);
 
 
         newLine();
-        //sixth task
+        //sixth task(dropped)
         int[] arr6 = new int[6];
         for (int i = 0; i < arr5.length; i++) {
             arr5[i] = (int) (Math.random() * 10);
         }
-
-
-
-
-
-
-
-
-
 
     }
 
     public static void newLine(){
         System.out.println();
     }
-
-    public boolean hasSimpleSides(int[]){
-
-    }
-
 }
 
