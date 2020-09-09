@@ -29,16 +29,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Lesson3">
-    <configuration name="Lesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson2" />
+  <component name="RunManager" selected="Application.Lesson4$MainClass">
+    <configuration name="Lesson3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson3" />
       <module name="JavaLevel1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lesson3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lesson3" />
+    <configuration name="Lesson4$MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4$MainClass" />
+      <module name="JavaLevel1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lesson4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson4" />
       <module name="JavaLevel1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,20 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
-      <module name="JavaLevel1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lesson4$MainClass" />
+        <item itemvalue="Application.Lesson4" />
         <item itemvalue="Application.Lesson3" />
         <item itemvalue="Application.Quiz" />
         <item itemvalue="Application.StepikTest" />
-        <item itemvalue="Application.Lesson2" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -102,38 +102,46 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom" timestamp="1599339675627">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599685226602">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599339675627" />
-    <state width="1877" height="248" key="GridCell.Tab.0.center" timestamp="1599339675627">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599685226602" />
+    <state width="1877" height="115" key="GridCell.Tab.0.bottom" timestamp="1599687632149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599339675627" />
-    <state width="1877" height="248" key="GridCell.Tab.0.left" timestamp="1599339675627">
+    <state width="1877" height="115" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599687632149" />
+    <state width="1877" height="115" key="GridCell.Tab.0.center" timestamp="1599687632149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599339675627" />
-    <state width="1877" height="248" key="GridCell.Tab.0.right" timestamp="1599339675627">
+    <state width="1877" height="115" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599687632149" />
+    <state width="1877" height="115" key="GridCell.Tab.0.left" timestamp="1599687632149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599339675627" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1599332265121">
+    <state width="1877" height="115" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599687632149" />
+    <state width="1877" height="115" key="GridCell.Tab.0.right" timestamp="1599687632149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599332265121" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1599332265121">
+    <state width="1877" height="115" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599687632149" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1599340647579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599332265121" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1599332265121">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599340647579" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1599340647579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599332265121" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1599332265121">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599340647579" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1599340647579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599332265121" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599340647579" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1599340647579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599340647579" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599686493958">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1599686493958" />
     <state x="470" y="256" width="979" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599026796501">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
