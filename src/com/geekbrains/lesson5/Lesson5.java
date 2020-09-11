@@ -12,6 +12,7 @@ public class Lesson5 {
 for(int i = 0; i<=4; i++){
     if(employeesArr[i].getAge() > 40){
         employeesArr[i].employeeInfo();
+        System.out.println();
     }
 }
 
