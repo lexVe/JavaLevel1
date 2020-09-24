@@ -29,14 +29,12 @@ public abstract class animal {
     }
 
     protected boolean checkTF(int needed, int possible){
-        if (needed<=possible)
+
+        if (needed<=possible){
             return true;
-        else if(needed>possible)
+        }
+        else {
             return false;
+        }
     }
-
-
-
-
-
 }
